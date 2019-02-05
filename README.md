@@ -1,0 +1,2 @@
+# Blog
+Laravel new blog
